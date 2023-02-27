@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/KWcGnX2iz0G1fMMHrO/giphy.gif)
+![MasterHead](https://i.pinimg.com/originals/8d/47/54/8d47545fbf4bfb9d0433db320305775e.gif)
 <h1 align="center">Hi 👋, I'm Ranjit</h1>
 <p align="center">
   <a href="https://www.chaudharyranjit.com.np">Site</a> •
