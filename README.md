@@ -9,4 +9,4 @@
 - 🔭 I’m currently student at [NCIT](https://ncit.edu.np) in Computer Engineering
 - 🌱 I’m currently learning more on Web Development and React JS
 - 💬 Message me for further inquiries
-- 📫 How to reach me: [@Royal5298](https://twitter.com/Royal5209) on Twitter
+- 📫 How to reach me: [@Royal5209](https://twitter.com/Royal5209) on Twitter
