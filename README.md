@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
+![MasterHead](https://cdn.nerdschalk.com/wp-content/uploads/2020/10/tenor-10.gif?width=1000)
 <h1 align="center">Hi 👋, I'm Ranjit</h1>
 <p align="center">
   <a href="https://www.chaudharyranjit.com.np">Site</a> •
