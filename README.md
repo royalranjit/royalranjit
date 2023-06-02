@@ -9,6 +9,8 @@
 # 💫 About Me:
 🔭 I’m currently working on RoomFinder<br>👯 I’m looking to collaborate on anything<br>🤝 I’m looking for help with learning<br>🌱 I’m currently learning React JS<br>💬 Ask me about anything<br>⚡ Fun fact I am funny
 
+---
+[![](https://visitcount.itsvg.in/api?id=royalranjit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ranjitchaudhary.5209) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjit-chaudhary-56251924b) 
@@ -26,7 +28,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=royalranjit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=royalranjit&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
